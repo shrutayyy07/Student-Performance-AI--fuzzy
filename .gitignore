@@ -1,0 +1,33 @@
+# Python / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+*.keras
+*.db
+.venv/
+venv/
+env/
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.antigravity/
+.gemini/
+.vscode/
+node_modules/
+__pycache__/
+.env

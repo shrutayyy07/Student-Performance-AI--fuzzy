@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+numpy
+scikit-fuzzy
+tensorflow
+pydantic
+sqlalchemy
