@@ -36,7 +36,7 @@ We extract structured knowledge from the user’s inputs using Fuzzy Rules. This
 ```
 
 ## Preview
-C:\Users\SHRUTI SAMAL\OneDrive\Apps\Pictures\Screenshots\Screenshot (344).png
+![Screenshot](assets/screenshot.png)
 
 ## Setup Instructions
 
