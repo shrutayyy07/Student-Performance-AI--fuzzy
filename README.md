@@ -35,9 +35,6 @@ We extract structured knowledge from the user’s inputs using Fuzzy Rules. This
  ├── package.json
 ```
 
-## Preview
-![Screenshot](assets/screenshot.png)
-
 ## Setup Instructions
 
 ### 1. Backend Setup
