@@ -2,13 +2,19 @@
 
 This project combines Fuzzy Logic (rule-based reasoning) and Artificial Neural Networks (learning-based prediction) to create a robust student performance evaluation system.
 
-## 🧠 Why a Hybrid System?
+##  Why a Hybrid System?
 Fuzzy logic is excellent at modeling human-like reasoning and subjective concepts (e.g., "High Attendance"). Conversely, Neural Networks are powerful pattern recognizers that learn from unstructured data. 
 
 **Our Architecture (Option A):**
 We extract structured knowledge from the user’s inputs using Fuzzy Rules. This fuzzy output score is then used alongside the raw inputs (Attendance, Assignment, Test) as features for a Keras Sequential Neural Network model. This combination significantly increases context awareness and prediction confidence compared to standalone NN models!
 
-## ⚙️ Project Structure
+##  Features
+- Fuzzy rule-based reasoning
+- Neural network learning
+- Hybrid AI integration
+- Interactive frontend
+  
+##  Project Structure
 ```text
 /backend
  ├── ai_models
@@ -29,7 +35,10 @@ We extract structured knowledge from the user’s inputs using Fuzzy Rules. This
  ├── package.json
 ```
 
-## 🚀 Setup Instructions
+## Preview
+"C:\Users\SHRUTI SAMAL\OneDrive\Apps\Pictures\Screenshots\Screenshot (344).png"
+
+## Setup Instructions
 
 ### 1. Backend Setup
 1. Navigate to the `backend` folder.
